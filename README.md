@@ -1,2 +1,2 @@
 # Smile-classifier
-A python Script to detect the face smile, using OpenCV.
+A python Script to detect the face smile, using OpenCV's Haar Cascades.
